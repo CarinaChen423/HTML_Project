@@ -1,0 +1,53 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 30;
+  padding: 10;
+}
+
+/* Header styles */
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+/* Photo styles */
+img {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Section heading styles */
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* List styles */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 0.7rem;
+    color: #E4A00F;
+}
+
+/* Link styles */
+a {
+  color: #20A90A;
+  text-decoration: underline;
+  font-size: 1.1rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
